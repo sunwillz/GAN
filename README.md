@@ -1,4 +1,4 @@
-# 对抗生成网络
+# 生成对抗网络
 
 **对抗式生成网络（Generative Adversarial Network）**
 
